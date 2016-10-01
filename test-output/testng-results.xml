@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="532" started-at="2016-09-25T08:51:46Z" finished-at="2016-09-25T08:51:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="532" started-at="2016-09-25T08:51:46Z" finished-at="2016-09-25T08:51:46Z">
+      <class name="com.vmetry.NLT.Util.ReportGenerator">
+        <test-method status="PASS" signature="archievefiles()[pri:0, instance:com.vmetry.NLT.Util.ReportGenerator@4349c220]" name="archievefiles" duration-ms="485" started-at="2016-09-25T14:21:46Z" finished-at="2016-09-25T14:21:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- archievefiles -->
+      </class> <!-- com.vmetry.NLT.Util.ReportGenerator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
